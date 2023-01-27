@@ -1,0 +1,121 @@
+Directores de la empresa
+
+    Director/a general o CEO:                       Albertson
+    Director/a de Financiero CFO:                   Adrian
+    Director/a de Recursos Humanos:                 Reina
+    Director/a de operaciones o COO:                Miguel
+    Director/a de sistemas de información o CIO:    Isael
+    Director/a de Comunicación CCO:                 Lisbeth
+    Director/a de Tecnología o CTO:                 Freddy
+    Administrador de base de datos:                 Anderson
+
+
+
+Líder por equipo
+
+    Líder del equipo de robótica:                         Albertson
+    Co-Líder del equipo de robótica:                      Miguel
+
+    Líder del equipo de desarrollo web:                   Freddy
+    Co-Líder del equipo de desarrollo web:                Isael
+
+    Líder del equipo de sistema operativo:                José
+    Co-Líder del equipo de sistema operativo:             Albertson
+
+    Líder del equipo de realidad virtual:                 Leandro
+    Co-Líder del equipo de realidad virtual:              Freddy
+
+
+
+
+Directores y lideres de equipo
+
+Albertson
+Miguel
+Adrian
+Reina
+Isael
+Lisbeth
+Freddy
+Anderson
+Leandro
+
+
+La empresa
+Empresa: TechSoft-Developer Corp (Desarrollo de Software y Tecnología)
+
+Misión:
+Visión:
+Valores:
+Logo:
+Historia: Somos una empresa creada en sus inicios como una pequeña practica de una materia 
+            llamada emprendimiento para los 6to del ITSO "Instituto Tecnológico Simón Orozco",
+            nosotros estábamos en el 6toD de Informática, en dicha practica teníamos que crear
+            una sola empresa. 
+
+            La idea empezó super sencilla con un proyecto el cual era crear una tienda de aplicaciones con todas las aplicaciones 
+            que hemos desarrollado en el instituto: tareas, practicas y los proyectos finales de 5to, ademas de también crear 
+            robots (de uso comercial y especializado para la automatización) que usaríamos como producto y ser suplidores de 
+            los mismos pero a la idea de empresa se le añadieron otras 4 desarrollo web, VR, O.S. y ChatBot
+(Robótica)
+Dynamic-Robots 'robots dinámicos' Hacemos aspiradoras y brazos mecánicos por eso dinámicos
+ + Servicio que ofrecemos: Creación, Implementación, Suplir los Kits de robótica, Mantenimiento de laboratorios de informática y consultoría por el ChatBot 
+
+Logo:
+
+
+(Sistema Operativo)
+SimUP OS Linux 'Sistema operativo actualizado educativo' Es una actualización con mejoras de rendimiento  mas herramientas educativas 
+ + Servicio que ofrecemos: Descarga, instalación, guía de uso y herramientas y consultoría de uso por el ChatBot y el blog
+
+Logo:
+
+
+(Desarrollo Web)
+Devign-Web Space 'desarrollo y diseño de espacios webs' No hay ningún nombre como este existente
+ + Servicio que ofrecemos: Creación y consultoría por el ChatBot 
+
+Logo:
+
+
+(VR)
+VR-Space 'Espacio de realidad virtual'
+ + Servicio que ofrecemos: Creación, Implementación y consultoría por el ChatBot 
+
+Logo:
+
+
+(ChatBot)
+Bot-MSA 'bot para mensajería de soporte automatizado' 
+ + Servicio que ofrecemos: Creación, Implementación y consultoría por el ChatBot 
+
+Logo:
+Historia:
+
+Empresa similar
+https://www.overlogy.net/nosotros.html
+
+
+
+Actividades:
+
+
+
+Grupos
+
+Robótica(Completo):
+Miguel, Wellington, Albertson, Michelle, Mañon, Anderson, Freddy, Isael.
+
+Diseño de la Página Web:
+Melany, Elian, Wagner, Marielys, Enrique, 
+Marlen, Lucas, Paola, Reina, 
+Leticia, Beriguete, Iverson, Jhustin.
+
+Sistema Operativo:
+José Daniel, Albertson, Anderson, Wellington, Isael.
+
+Diseño de VR:
+Reina, Elian, Leticia, Leandro, Marlen, Paola, Lucas, Isai.
+
+Programación de ChatBots:
+Enghel, Albertson, Freddy, Isael, Miguel, Beriguete, Iverson, Luis.
