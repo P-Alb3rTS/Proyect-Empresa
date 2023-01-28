@@ -44,19 +44,27 @@ Leandro
 La empresa
 Empresa: TechSoft-Developer Corp (Desarrollo de Software y Tecnología)
 
-Misión:
-Visión:
-Valores:
-Logo:
-Historia: Somos una empresa creada en sus inicios como una pequeña practica de una materia 
-            llamada emprendimiento para los 6to del ITSO "Instituto Tecnológico Simón Orozco",
-            nosotros estábamos en el 6toD de Informática, en dicha practica teníamos que crear
-            una sola empresa. 
+Misión: Desarrollar y crear tecnologias basándonos en los estándares de tecnología actuales en el mundo del desarrollo web y de software. Esto con el objetivo de brindar un buen servicio a todos nuestros clientes, eso sin importar el tipo de empresa ni a que o a quien va dirigido cualquiera de los servicios que ofrecemos en TechSoft-Dev Corp.
 
-            La idea empezó super sencilla con un proyecto el cual era crear una tienda de aplicaciones con todas las aplicaciones 
-            que hemos desarrollado en el instituto: tareas, practicas y los proyectos finales de 5to, ademas de también crear 
-            robots (de uso comercial y especializado para la automatización) que usaríamos como producto y ser suplidores de 
-            los mismos pero a la idea de empresa se le añadieron otras 4 desarrollo web, VR, O.S. y ChatBot
+Visión: Ser una de las empresas lideres en el mercado del desarrollo web y de software en la Republica Dominicana.
+
+Valores: Responsabilidad y Respeto son nuestros valores principales pero te invitamos a ver nuestra Jerarquía de valores.
+
+Historia: Somos una empresa creada en sus inicios como una pequeña practica de una materia
+llamada emprendimiento para los 6to del ITSO «Instituto Tecnológico Simón Orozco»,
+nosotros estábamos en el 6toD de Informática, en dicha practica teníamos que crear
+una sola empresa.
+
+La idea empezó super sencilla con un proyecto el cual era crear una tienda de aplicaciones con todas las aplicaciones que hemos desarrollado en el instituto: tareas, practicas y los proyectos finales de 5to, además de también crear robots (de uso comercial y especializado para la automatización) que usaríamos como producto y ser suplidores de los mismos pero a la idea de empresa se le añadieron otras 4 desarrollo web, VR, O.S. y Chat Bot.
+
+FODA
+
+Fortalezas: Compañerismo.
+Oportunidades: Herramientas que automatizan el desarrollo de alguno de los productos que desarrollamos.
+Debilidades: Algunos no tienen los conocimientos básicos prácticos en el desarrollo.
+Amenazas: La gran mayoría tiene poca experiencia real de desarrollo, Falta de interés Y Desunión.
+
+
 (Robótica)
 Dynamic-Robots 'robots dinámicos' Hacemos aspiradoras y brazos mecánicos por eso dinámicos
  + Servicio que ofrecemos: Creación, Implementación, Suplir los Kits de robótica, Mantenimiento de laboratorios de informática y consultoría por el ChatBot 
@@ -90,7 +98,7 @@ Bot-MSA 'bot para mensajería de soporte automatizado'
  + Servicio que ofrecemos: Creación, Implementación y consultoría por el ChatBot 
 
 Logo:
-Historia:
+
 
 Empresa similar
 https://www.overlogy.net/nosotros.html
@@ -99,12 +107,19 @@ https://www.overlogy.net/nosotros.html
 
 Actividades:
 
+Supervisor(Robótica, Sitio Web, Sistema Operativo, Realidad Virtual, ChatBot),
+1- Robótica(Diseñador/a, Programador/a, Ensamblador/a).
+2- Sitio Web(Maquetador/a, Diseñador/a, Programador/a).
+5- ChartBot(Diseñador/a, Programador/a, Ensamblador/a).
+3- Sistema Operativo(Diseñador/a, Programador/a, Ensamblador/a).
+4- Realidad Virtual VR (Diseñador/a, Programador/a, Ensamblador/a).
 
 
 Grupos
 
 Robótica(Completo):
-Miguel, Wellington, Albertson, Michelle, Mañon, Anderson, Freddy, Isael.
+Miguel, Wellington, Albertson, Michelle, 
+Mañon, Anderson, Freddy, Isael.
 
 Diseño de la Página Web:
 Melany, Elian, Wagner, Marielys, Enrique, 
